@@ -1,4 +1,4 @@
-#Digital clock with javascript
+# Digital clock with javascript
 This project show how to create digital clock using javascript,html and css. its displays time in hours,minutes and seconds using 24hrs format
 
 
